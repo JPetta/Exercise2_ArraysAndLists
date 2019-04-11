@@ -1,0 +1,11 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_3_ListsAndArrays\Exercise3_ArraysAndLists\obj\Debug\netcoreapp2.1\Exercise3_ArraysAndLists.csprojAssemblyReference.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_3_ListsAndArrays\Exercise3_ArraysAndLists\obj\Debug\netcoreapp2.1\Exercise3_ArraysAndLists.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_3_ListsAndArrays\Exercise3_ArraysAndLists\obj\Debug\netcoreapp2.1\Exercise3_ArraysAndLists.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_3_ListsAndArrays\Exercise3_ArraysAndLists\obj\Debug\netcoreapp2.1\Exercise3_ArraysAndLists.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_3_ListsAndArrays\Exercise3_ArraysAndLists\bin\Debug\netcoreapp2.1\Exercise3_ArraysAndLists.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_3_ListsAndArrays\Exercise3_ArraysAndLists\bin\Debug\netcoreapp2.1\Exercise3_ArraysAndLists.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_3_ListsAndArrays\Exercise3_ArraysAndLists\bin\Debug\netcoreapp2.1\Exercise3_ArraysAndLists.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_3_ListsAndArrays\Exercise3_ArraysAndLists\bin\Debug\netcoreapp2.1\Exercise3_ArraysAndLists.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_3_ListsAndArrays\Exercise3_ArraysAndLists\bin\Debug\netcoreapp2.1\Exercise3_ArraysAndLists.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_3_ListsAndArrays\Exercise3_ArraysAndLists\obj\Debug\netcoreapp2.1\Exercise3_ArraysAndLists.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Exercise_3_ListsAndArrays\Exercise3_ArraysAndLists\obj\Debug\netcoreapp2.1\Exercise3_ArraysAndLists.pdb
